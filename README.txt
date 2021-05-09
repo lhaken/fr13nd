@@ -22,3 +22,9 @@ There are 4 files: love.py, script.py, fr13nd.py and run_fr13nd.cmd
               |_|            |_|   |__/ 
 1) creates "run_fr13nd.cmd" and injects it into "C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup", this makes the file run on startup.
 2) creates "fr13nd.py" and hides it, this file prints "Hello from your fr13nd! -Lordy"
+                   __     _ ____        _                   _ 
+  _ _ _  _ _ _    / _|_ _/ |__ /_ _  __| |      __ _ __  __| |
+ | '_| || | ' \  |  _| '_| ||_ \ ' \/ _` |  _  / _| '  \/ _` |
+ |_|  \_,_|_||_|_|_| |_| |_|___/_||_\__,_| (_) \__|_|_|_\__,_|
+              |___|                                           
+1) runs the hidden "fr13nd.py"
